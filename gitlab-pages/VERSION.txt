@@ -1,4 +1,0 @@
-VIM - Interactive VIM Learning Platform
-Version: 1.0.1
-Build Date: 2025-06-13 16:31:26 UTC
-Repository: https://github.com/Real-Fruit-Snacks/VIM.io
